@@ -1,1 +1,2 @@
-"# my-javascript-study" 
+
+My js tech learning journey
